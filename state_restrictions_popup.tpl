@@ -30,9 +30,6 @@ removeundeliverables = function()
    
     });
 
-hereoneto= currenturl +'/cart.php?mode=deleterestricted' + cartid_string;
-
- console.log(hereoneto);
                     var xmlHttp;
                         if (window.XMLHttpRequest)
                             {// code for IE7+, Firefox, Chrome, Opera, Safari
