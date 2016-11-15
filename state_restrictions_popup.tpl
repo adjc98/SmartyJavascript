@@ -8,7 +8,7 @@ $(document).ready(function() {
     
     });
 
-
+//this is an added comment to test new release
 
 //Get https url base
  {/literal}{if isset($test_states)}{literal}
